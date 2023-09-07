@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saswebapicicdtest", "saswebapicicdtest\saswebapicicdtest.csproj", "{1CA0C0B5-8254-4108-AD6E-84631FD9305B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CA0C0B5-8254-4108-AD6E-84631FD9305B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA0C0B5-8254-4108-AD6E-84631FD9305B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA0C0B5-8254-4108-AD6E-84631FD9305B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA0C0B5-8254-4108-AD6E-84631FD9305B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5712BC12-4511-492F-84A9-809288B8ADD0}
+	EndGlobalSection
+EndGlobal
